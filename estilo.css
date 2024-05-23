@@ -1,0 +1,60 @@
+body{
+  background-color: brown; 
+  h4{
+    text-align/*para poner la direccion deseada*/: center;/*para poner al centro*/
+    font-size: 10.5mm;/*codigo para agrandar letras*/
+  }
+div.galeria{ /*abrimos la caja*/
+margin: 10px 20px;/* el margen y el tamaño que queremos que tenga la imagen*/
+box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(0,0,0, 0);
+float: left;
+width: 350px;
+}
+div.maps{
+  margin: 10px 20px;
+  box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(0,0,0, 0);
+  float: left;
+  width: 350px;
+
+}
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.p1{
+display:  flex;
+#parrafo{
+  font-weight: bold;
+  font-size: 1.5em;
+ }
+ a, img{
+  display: block;
+ }
+ 
+}
+ .p2{
+  display:  flex;
+ }
+ .p3{
+  display:  flex;
+
+ }
+ .p4{
+  display:  flex;
+
+ }*/
+ 
+ 
